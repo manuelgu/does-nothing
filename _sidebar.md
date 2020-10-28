@@ -1,3 +1,5 @@
-- [Start file](README.md)
-- [Guide](guide.md "Best guide")
+- Get going
+  - [Start file](README.md)
+- Others
+  - [Guide](guide.md "Best guide")
   - [Test](test.md)
